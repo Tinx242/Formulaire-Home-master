@@ -35,10 +35,6 @@ header h1{
     color: #fff;
     font-weight: 600;
     font-size: 4.5rem;
-    text-shadow: .2rem .2rem 0 #222,
-    -.2rem -.2rem 0 #222,
-    -.2rem .2rem 0 #222,
-    .2rem -.2rem 0 #222;
 }
 figure{
     max-width: 40rem;
