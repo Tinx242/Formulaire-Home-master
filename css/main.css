@@ -27,7 +27,7 @@ input[type="submit"], button, select{
 input{
     border: 0;
 }
-/* theme */
+
 header h1{
     line-height: 8.5rem;
     text-align: center;
@@ -64,12 +64,11 @@ form *{
     padding: .9rem;
 }
 
-
-
 input[type="checkbox"] {
     width: 2rem;
     height: 2rem;
     margin-right: 1rem;
+    
 }
 button {
     background-color: #1c5882;
@@ -80,8 +79,6 @@ button {
     cursor: pointer;
     border: solid .1rem #1c5882;
     text-align: center;
-
-    
 
 }
 
