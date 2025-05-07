@@ -45,6 +45,13 @@ figure figcaption *{
     text-align: center;
 }
 
+form input, form select{
+    border: solid .1rem #ccc;
+    line-height: 3.5rem;
+    transition: all 0.8s ease-in-out;
+   
+}
+
 fieldset, section{
     max-width: 80rem;
     margin: 0 auto 5rem;
@@ -68,7 +75,7 @@ input[type="checkbox"] {
     width: 2rem;
     height: 2rem;
     margin-right: 1rem;
-    
+
 }
 button {
     background-color: #1c5882;

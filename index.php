@@ -9,7 +9,7 @@
 <body>
     <header>
         <h1>
-            📜​ Formulaire de Connection
+            ​ Formulaire de Connection
         </h1>
         
     </header>
