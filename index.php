@@ -34,7 +34,12 @@
         <fieldset>
             <legend>Formulaire de Connection</legend>
             <p>Veuillez remplir le formulaire ci-dessous pour vous connecter.</p>
-            <form method="post" action="traitement.php">
+            <form method="post" action="index.php">
+                <label for="name">Nom :</label>
+                <input type="text" id="name" name="name" placeholder="Votre nom" required><br><br>
+                
+                <label for="surname">Prénom :</label>
+                <input type="text" id="surname" name="surname" placeholder="Votre prénom" required><br><br>
         <label for="login">Login :</label>
         <input type="text" id="login" name="login" placeholder="Votre email" required><br><br>
         

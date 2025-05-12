@@ -36,14 +36,12 @@ header h1{
     font-weight: 600;
     font-size: 4.5rem;
 }
-figure{
+section{
     max-width: 40rem;
     margin: 3rem auto 0;
-}
-
-figure figcaption *{
     text-align: center;
 }
+
 
 form input, form select{
     border: solid .1rem #ccc;
